@@ -19,9 +19,7 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine.
    
 2. Open the project directory.
-   ```bash
-   init tailwind & vite
-   ```
+  
 3. Open `index.html` in your preferred web browser.
 
 ## Usage
