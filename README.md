@@ -17,7 +17,7 @@ This project is a simple newsletter subscribe page, created using Tailwind CSS f
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine.
-   ```bash
+   
 2. Open the project directory.
    ```bash
    init tailwind & vite
